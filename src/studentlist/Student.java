@@ -61,4 +61,7 @@ public class Student {
     public void setDoB(String DoB) {
         this.DoB = DoB;
     }
+    public String toString(){
+        return "Student";
+    }
 }
